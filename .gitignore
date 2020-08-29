@@ -1,0 +1,11 @@
+data/
+build/
+.idea
+*.pyc
+dist/
+*egg*/
+*.log
+*.props
+*.txt
+*.out
+

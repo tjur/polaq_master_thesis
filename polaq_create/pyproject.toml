@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "squad_pl"
+version = "0.0.0"
+description = ""
+authors = ["Tomasz Jurkiewicz"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+stanfordnlp = "^0.2"
+wikiextractor = "^0.1"
+torch = "1.3.0"  # remove this line when problem with torch 1.3.0.post2 will be fixed
+# if poetry has problem installing torch just use pip: pip install --no-cache-dir torch
+gensim = "^3.8"
+#gensim = { git = "https://github.com/maohbao/gensim.git", branch = "develop" }
+pyplwnxml = "^1.1"
+googletrans = "^2.4"
+hyper = "^0.7.0"  # HTTP/2 support (used by googletrans to speed up requests)
+google-cloud-translate = "^2.0"
+requests = "^2.23"
+grpcio = "^1.27"
+spacy = "^2.2"
+tensorflow = "2.1"
+# tensorflow-estimator = "2.1.0"  # fix from https://github.com/tensorflow/tensorflow/issues/37525
+# install manually this version when
+# "AttributeError: module 'tensorflow' has no attribute 'compat'" appears
+# (pip install tensorflow-estimator=="2.1.0")
+
+names-dataset = "^1.9"
+readchar = "^2.0"
+nameparser = "^1.0"
+pycountry = "^19.8"
+matplotlib = "^3.2"
+Cython = "^0.29.20"
+
+[tool.poetry.dev-dependencies]
+ipdb = "^0.12"
+black = {version = "*", allows-prereleases = true}
+
+[tool.black]
+line-length = 120

@@ -1,0 +1,2107 @@
+{
+  "data": [
+    {
+      "title": "Instytut_Informatyki_Uniwersytetu_Wrocławskiego",
+      "paragraphs": [
+        {
+          "context": "Instytut Informatyki Uniwersytetu Wrocławskiego (II UWr) – jednostka dydaktyczno-naukowa należąca do struktur Wydziału Matematyki i Informatyki Uniwersytetu Wrocławskiego. Dzieli się na 6 zakładów i dwie pracownie. Posiada uprawnienia do nadawania stopni naukowych doktora i doktora habilitowanego oraz wnioskowania o nadanie tytułu naukowego profesora. Prowadzi działalność dydaktyczną i badawczą związaną z metodami numerycznymi teorii aproksymacji, algebrą, równaniami różniczkowymi zwyczajnymi i cząstkowymi badaniami operacyjnymi i ich zastosowaniom, statystyką obliczeniową, inteligentną analizą danych, teorią grafów, złożonością obliczeniową i efektywnością algorytmów, konstrukcją oprogramowania narzędziowego i użytkowego, logiką informatyki, analizą kombinatoryczną, analizą programów oraz dydaktyką informatyki. Instytut oferuje studia na kierunku informatyka oraz studia podyplomowe.",
+          "qas": [
+            {
+              "question": "Z ilu zakładów składa się Instytut Informatyki?",
+              "answers": [
+                {
+                  "text": "6",
+                  "answer_start": 186
+                }
+              ],
+              "id": "1000001"
+            },
+            {
+              "question": "Z ilu pracowni składa się Instytut?",
+              "answers": [
+                {
+                  "text": "dwie",
+                  "answer_start": 199
+                }
+              ],
+              "id": "1000002"
+            },
+            {
+              "question": "Do jakich struktur należy Instytut?",
+              "answers": [
+                {
+                  "text": "Wydziału Matematyki i Informatyki Uniwersytetu Wrocławskiego",
+                  "answer_start": 110
+                }
+              ],
+              "id": "1000003"
+            },
+            {
+              "question": "Jaki jest inny, skrócony zapis dla Instytutu Informatyki Uniwersytetu Wrocławskiego?",
+              "answers": [
+                {
+                  "text": "II UWr",
+                  "answer_start": 49
+                }
+              ],
+              "id": "1000004"
+            },
+            {
+              "question": "Na jakim kierunku oferowane są studia w Instytucie?",
+              "answers": [
+                {
+                  "text": "informatyka",
+                  "answer_start": 860
+                }
+              ],
+              "id": "1000005"
+            }
+          ]
+        },
+        {
+          "context": "Instytut powstał w lutym 1975 roku. Pracownicy naukowi instytutu zajmowali też często najważniejsze stanowiska w hierarchii uniwersyteckiej – rektorów: Leszek Pacholski (2005-2008), wielokrotnie obejmowali też funkcję dziekanów na swoich wydziałach. Instytut początkowo afiliowany był przy Wydziale Matematyki, Fizyki i Chemii, od 1995 roku przy Wydziale Matematyki i Fizyki, a od reorganizacji struktur uniwersyteckich w 1996 roku przy Wydziale Matematyki i Informatyki. Aktualnie w instytucie kształci się 678 studentów, w tym 675 w trybie dziennym i 3 w zaocznym. Instytut wydaje własne czasopisma elektroniczne. Siedzibą instytutu jest budynek wzniesiony od podstaw w latach 2004–2005 przy ulicy Fryderyka Joliot-Curie 15 we Wrocławiu na terenie kampusu Uniwersytetu Wrocławskiego na placu Grunwaldzkim.",
+          "qas": [
+            {
+              "question": "Kiedy powstał Instytut?",
+              "answers": [
+                {
+                  "text": "w lutym 1975",
+                  "answer_start": 17
+                },
+                {
+                  "text": "lutym 1975",
+                  "answer_start": 19
+                },
+                {
+                  "text": "1975",
+                  "answer_start": 25
+                }
+              ],
+              "id": "1000006"
+            },
+            {
+              "question": "W którym roku powstał Instytut?",
+              "answers": [
+                {
+                  "text": "1975",
+                  "answer_start": 25
+                }
+              ],
+              "id": "1000007"
+            },
+            {
+              "question": "Kto był rektorem w latach 2005-2008?",
+              "answers": [
+                {
+                  "text": "Leszek Pacholski",
+                  "answer_start": 152
+                }
+              ],
+              "id": "1000008"
+            },
+            {
+              "question": "W jakich latach Leszek Pacholski był rektorem?",
+              "answers": [
+                {
+                  "text": "2005-2008",
+                  "answer_start": 170
+                }
+              ],
+              "id": "1000009"
+            },
+            {
+              "question": "Kiedy zreorganizowano struktury uniwersytetu?",
+              "answers": [
+                {
+                  "text": "1996",
+                  "answer_start": 422
+                }
+              ],
+              "id": "1000010"
+            },
+            {
+              "question": "W którym roku zreorganizowano struktury uniwersytetu?",
+              "answers": [
+                {
+                  "text": "1996",
+                  "answer_start": 422
+                }
+              ],
+              "id": "1000011"
+            },
+            {
+              "question": "Ilu studentów uczy się w Instytucie?",
+              "answers": [
+                {
+                  "text": "678",
+                  "answer_start": 508
+                }
+              ],
+              "id": "1000012"
+            },
+            {
+              "question": "Ilu jest studentów zaocznych?",
+              "answers": [
+                {
+                  "text": "3",
+                  "answer_start": 553
+                }
+              ],
+              "id": "1000013"
+            },
+            {
+              "question": "Co wydaje Instytut?",
+              "answers": [
+                {
+                  "text": "własne czasopisma elektroniczne",
+                  "answer_start": 583
+                },
+                {
+                  "text": "czasopisma elektroniczne",
+                  "answer_start": 590
+                },
+                {
+                  "text": "czasopisma",
+                  "answer_start": 590
+                }
+              ],
+              "id": "1000014"
+            },
+            {
+              "question": "W jakich latach powstał budynek Instytutu?",
+              "answers": [
+                {
+                  "text": "w latach 2004–2005",
+                  "answer_start": 670
+                },
+                {
+                  "text": "2004–2005",
+                  "answer_start": 679
+                }
+              ],
+              "id": "1000015"
+            },
+            {
+              "question": "Na jakiej ulicy jest budynek?",
+              "answers": [
+                {
+                  "text": "Fryderyka Joliot-Curie 15",
+                  "answer_start": 700
+                },
+                {
+                  "text": "Fryderyka Joliot-Curie",
+                  "answer_start": 700
+                }
+              ],
+              "id": "1000016"
+            },
+            {
+              "question": "W jakim mieście znajduje się budynek Instytutu?",
+              "answers": [
+                {
+                  "text": "Wrocławiu",
+                  "answer_start": 729
+                },
+                {
+                  "text": "we Wrocławiu",
+                  "answer_start": 726
+                }
+              ],
+              "id": "1000017"
+            }
+          ]
+        },
+        {
+          "context": "Początki studiów informatycznych na Uniwersytecie Wrocławskim są związane z działalnością dyrektora Instytutu Matematyki UWr prof. Edwarda Marczewskiego, który utworzył w 1962 roku Katedrę Metod Numerycznych, która zajmowała się specjalnością informatyczną na kierunku matematyka. W 1970 roku w miejsce katedry utworzono Zakład Metod Numerycznych i Maszyn Matematycznych oraz Centrum Obliczeniowe, które w 1975 roku zostały połączone w jeden Instytut Informatyki, którego pierwszym dyrektorem został prof. Stefan Paszkowski.",
+          "qas": [
+            {
+              "question": "Kiedy powstała Katedra Metod Numerycznych?",
+              "answers": [
+                {
+                  "text": "1962",
+                  "answer_start": 171
+                }
+              ],
+              "id": "1000018"
+            },
+            {
+              "question": "Kto stworzył Katedrę Metod Numerycznych?",
+              "answers": [
+                {
+                  "text": "Edwarda Marczewskiego",
+                  "answer_start": 131
+                },
+                {
+                  "text": "prof. Edwarda Marczewskiego",
+                  "answer_start": 125
+                }
+              ],
+              "id": "1000019"
+            },
+            {
+              "question": "Kiedy powstał Zakład Metod Numerycznych i Maszyn Matematycznych?",
+              "answers": [
+                {
+                  "text": "1970",
+                  "answer_start": 283
+                }
+              ],
+              "id": "1000020"
+            },
+            {
+              "question": "Kiedy powstało Centrum Obliczeniowe?",
+              "answers": [
+                {
+                  "text": "1970",
+                  "answer_start": 283
+                }
+              ],
+              "id": "1000021"
+            },
+            {
+              "question": "Kiedy połączono Centrum Obliczeniowe oraz Zakład Metod Numerycznych i Maszyn Matematycznych?",
+              "answers": [
+                {
+                  "text": "1975",
+                  "answer_start": 406
+                }
+              ],
+              "id": "1000022"
+            },
+            {
+              "question": "W co połączono Zakład Metod Numerycznych i Maszyn Matematycznych oraz Centrum Obliczeniowe?",
+              "answers": [
+                {
+                  "text": "Instytut Informatyki",
+                  "answer_start": 442
+                }
+              ],
+              "id": "1000023"
+            },
+            {
+              "question": "Kto był pierwszym dyrektorem Instytutu Informatyki?",
+              "answers": [
+                {
+                  "text": "Stefan Paszkowski",
+                  "answer_start": 506
+                }
+              ],
+              "id": "1000024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pink_Floyd",
+      "paragraphs": [
+        {
+          "context": "Pink Floyd – angielski zespół rockowy założony w 1965 roku w Londynie. Ich twórczość, początkowo klasyfikowana jako rock psychodeliczny, w późniejszych latach nabrała cech rocka progresywnego. Grupa znana jest z filozoficznie zabarwionych tekstów piosenek, eksperymentów z dźwiękiem, innowacyjnego podejścia do kwestii grafiki w albumach oraz rozbudowanych występów koncertowych. Sprzedali na całym świecie ponad 250 milionów albumów (z tego ok. 74,5 miliona w samych Stanach Zjednoczonych), co czyni ich jedną z najlepiej sprzedających się grup muzycznych w historii.",
+          "qas": [
+            {
+              "question": "Gdzie powstało Pink Floyd?",
+              "answers": [
+                {
+                  "text": "w Londynie",
+                  "answer_start": 59
+                },
+                {
+                  "text": "Londynie",
+                  "answer_start": 61
+                }
+              ],
+              "id": "1000025"
+            },
+            {
+              "question": "W którym roku powstało Pink Floyd?",
+              "answers": [
+                {
+                  "text": "1965",
+                  "answer_start": 49
+                }
+              ],
+              "id": "1000026"
+            },
+            {
+              "question": "Z czym eksperymentowało Pink Floyd?",
+              "answers": [
+                {
+                  "text": "z dźwiękiem",
+                  "answer_start": 271
+                },
+                {
+                  "text": "dźwiękiem",
+                  "answer_start": 273
+                }
+              ],
+              "id": "1000027"
+            },
+            {
+              "question": "Ile zespół sprzedał w sumie albumów?",
+              "answers": [
+                {
+                  "text": "ponad 250 milionów",
+                  "answer_start": 407
+                },
+                {
+                  "text": "250 milionów",
+                  "answer_start": 413
+                }
+              ],
+              "id": "1000028"
+            },
+            {
+              "question": "Ile milionów albumów zespół sprzedał w USA?",
+              "answers": [
+                {
+                  "text": "ok. 74,5",
+                  "answer_start": 442
+                },
+                {
+                  "text": "74,5",
+                  "answer_start": 446
+                }
+              ],
+              "id": "1000029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historia_grupy_Pink_Floyd",
+      "paragraphs": [
+        {
+          "context": "Grupa powstała wiosną 1965 w Londynie, początkowo pod nazwą Sigma-6. Tworzyli ją studenci wydziału architektury London Polytechnical School: Roger Waters (gitara, śpiew), Richard Wright (gitara, śpiew), Nick Mason (perkusja), Clive Metcalf (gitara basowa), Keith Noble (śpiew) i Juliette Gale (śpiew). Początkowo zespół pozostawał pod silnym wpływem popularnej wówczas muzyki rhythm'n'blues, jednakże już wtedy nie stronił od muzycznych eksperymentów, takich jak wplatanie w utwory fragmentów muzyki poważnej.",
+          "qas": [
+            {
+              "question": "Jaka był pierwsza nazwa zespołu?",
+              "answers": [
+                {
+                  "text": "Sigma-6",
+                  "answer_start": 60
+                }
+              ],
+              "id": "1000030"
+            },
+            {
+              "question": "Kto grał na perkusji?",
+              "answers": [
+                {
+                  "text": "Nick Mason",
+                  "answer_start": 203
+                }
+              ],
+              "id": "1000031"
+            },
+            {
+              "question": "Z jakiego wydziału byli członkowie grupy?",
+              "answers": [
+                {
+                  "text": "architektury",
+                  "answer_start": 99
+                }
+              ],
+              "id": "1000032"
+            },
+            {
+              "question": "Z jakiej szkoły byli członkowie grupy?",
+              "answers": [
+                {
+                  "text": "London Polytechnical School",
+                  "answer_start": 112
+                }
+              ],
+              "id": "1000033"
+            }
+          ]
+        },
+        {
+          "context": "Tytułowy utwór to ballada, w której solówkę na gitarze akustycznej zagrał gościnnie Roy Harper. Harper zaśpiewał także w utworze Have a Cigar. Początkowo miał go zaśpiewać Waters, ale po licznych próbach ciągle mu to nie wychodziło. W końcu skonfundowany zaproponował, by powierzyć śpiew komuś innemu. Jak sam potem przyznał, liczył, że koledzy z zespołu raczej podtrzymają go na duchu i skłonią do dalszych prób. Wbrew jego oczekiwaniu, nader skwapliwie zgodzili się na pomysł. Szybko z sąsiedniego studia poproszono Harpera, który wywiązał się z zadania. Waters w późniejszych wypowiedziach uznał, że ta przedwczesna decyzja naruszyła integralność zespołu. Pink Floyd pierwszy raz zatrudniał sesyjnego muzyka do tego, co powinien zrobić własnymi siłami.",
+          "qas": [
+            {
+              "question": "Kto gościnnie zagrał na gitarze akustycznej?",
+              "answers": [
+                {
+                  "text": "Roy Harper",
+                  "answer_start": 84
+                }
+              ],
+              "id": "1000034"
+            },
+            {
+              "question": "W jakim utworze zaśpiewał Roy Harper?",
+              "answers": [
+                {
+                  "text": "Have a Cigar",
+                  "answer_start": 129
+                }
+              ],
+              "id": "1000035"
+            }
+          ]
+        },
+        {
+          "context": "12 czerwca 2005, wbrew plotkom o ostatecznym rozpadzie grupy, a przede wszystkim wbrew powtarzanym od dwudziestu lat przez Watersa deklaracjom, że nigdy nie wystąpi już z Pink Floyd, ogłoszono sensacyjną informację o jednorazowym wspólnym występie grupy w najbardziej znanym czteroosobowym składzie. 13 czerwca Waters potwierdził tę wiadomość. Gilmour, Mason, Waters i Wright zagrali razem 2 lipca 2005 na transmitowanym na cały świat koncercie charytatywnym Live 8, grając Breathe/Breathe Reprise, Money, Wish You Were Here i Comfortably Numb. Pojawiły się też spekulacje o wspólnej krótkiej trasie koncertowej, które jednak nie znalazły potwierdzenia.",
+          "qas": [
+            {
+              "question": "Kiedy ogłoszono, że Pink Floyd wystąpi na Live 8?",
+              "answers": [
+                {
+                  "text": "12 czerwca 2005",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000036"
+            },
+            {
+              "question": "Kiedy miało miejsce Live 8?",
+              "answers": [
+                {
+                  "text": "2 lipca 2005",
+                  "answer_start": 390
+                }
+              ],
+              "id": "1000037"
+            },
+            {
+              "question": "Kiedy Pink Floyd zagrało na Live 8?",
+              "answers": [
+                {
+                  "text": "2 lipca 2005",
+                  "answer_start": 390
+                }
+              ],
+              "id": "1000038"
+            },
+            {
+              "question": "Jaki utwór, oprócz Breathe/Breathe Reprise, Money i Wish You Were Here, zagrało Pink Floyd na Live 8?",
+              "answers": [
+                {
+                  "text": "Comfortably Numb",
+                  "answer_start": 527
+                }
+              ],
+              "id": "1000039"
+            },
+            {
+              "question": "Kto, oprócz Wrighta, Gilmoura i Masona, zagrał na koncercie?",
+              "answers": [
+                {
+                  "text": "Waters",
+                  "answer_start": 360
+                }
+              ],
+              "id": "1000040"
+            },
+            {
+              "question": "Jakiego rodzaju koncertem było Live 8?",
+              "answers": [
+                {
+                  "text": "charytatywnym",
+                  "answer_start": 445
+                }
+              ],
+              "id": "1000041"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dolomity",
+      "paragraphs": [
+        {
+          "context": "Dolomity (wł. Dolomiti, Alpi Dolomitiche; niem. Dolomiten) – pasmo górskie w północno-wschodniej części Włoch, część Południowych Alp Wapiennych w Alpach Wschodnich. Leży pomiędzy dolinami: Val Rendena na zachodzie, Piawa na wschodzie oraz Pustertal (Val Pusteria) na północy. Najwyższe szczyty Dolomitów to: Punta Penia (3342 m n.p.m.) i Punta Rocca (3309 m n.p.m.) w masywie Marmolady, Antelao (3263 m n.p.m.), Tofany. Kraina geograficzna, do której należą Dolomity to Tyrol Południowy, południowa część masywu leży na terenie prowincji Belluno, zachodnia – prowincji Trentino, północna – prowincji Bolzano-Alto Adige/Bozen-Südtirol. W 2009 roku Dolomity wpisano na listę światowego dziedzictwa UNESCO.",
+          "qas": [
+            {
+              "question": "W jakim kraju znajdują się Dolomity?",
+              "answers": [
+                {
+                  "text": "Włoch",
+                  "answer_start": 104
+                }
+              ],
+              "id": "1000042"
+            },
+            {
+              "question": "Jaka jest niemiecka nazwa Dolomitów?",
+              "answers": [
+                {
+                  "text": "Dolomiten",
+                  "answer_start": 48
+                }
+              ],
+              "id": "1000043"
+            },
+            {
+              "question": "Czego część stanowią Dolomity?",
+              "answers": [
+                {
+                  "text": "Południowych Alp Wapiennych",
+                  "answer_start": 117
+                },
+                {
+                  "text": "Włoch",
+                  "answer_start": 104
+                }
+              ],
+              "id": "1000044"
+            },
+            {
+              "question": "Jak nazywa się górskie pasmo w północno-wschodniej części Włoch?",
+              "answers": [
+                {
+                  "text": "Dolomity",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000045"
+            },
+            {
+              "question": "W jakiej części Włoch są Dolomity?",
+              "answers": [
+                {
+                  "text": "północno-wschodniej",
+                  "answer_start": 77
+                }
+              ],
+              "id": "1000046"
+            },
+            {
+              "question": "Jaki jest najwyższy szczyt Dolomitów?",
+              "answers": [
+                {
+                  "text": "Punta Penia",
+                  "answer_start": 309
+                }
+              ],
+              "id": "1000047"
+            },
+            {
+              "question": "Ile metrów wysokości ma Punta Penia?",
+              "answers": [
+                {
+                  "text": "3342",
+                  "answer_start": 322
+                }
+              ],
+              "id": "1000048"
+            },
+            {
+              "question": "Jak wysoki jest szczyt Antelao?",
+              "answers": [
+                {
+                  "text": "3263 m n.p.m.",
+                  "answer_start": 397
+                },
+                {
+                  "text": "3263 m",
+                  "answer_start": 397
+                },
+                {
+                  "text": "3263",
+                  "answer_start": 397
+                }
+              ],
+              "id": "1000049"
+            },
+            {
+              "question": "Ile metrów wysokości ma Punta Rocca?",
+              "answers": [
+                {
+                  "text": "3309",
+                  "answer_start": 352
+                }
+              ],
+              "id": "1000050"
+            },
+            {
+              "question": "W jakim masywie znajduje się Punta Penia?",
+              "answers": [
+                {
+                  "text": "w masywie Marmolady",
+                  "answer_start": 367
+                },
+                {
+                  "text": "masywie Marmolady",
+                  "answer_start": 369
+                },
+                {
+                  "text": "Marmolady",
+                  "answer_start": 377
+                }
+              ],
+              "id": "1000051"
+            },
+            {
+              "question": "W jakim masywie znajduje się Punta Rocca?",
+              "answers": [
+                {
+                  "text": "w masywie Marmolady",
+                  "answer_start": 367
+                },
+                {
+                  "text": "masywie Marmolady",
+                  "answer_start": 369
+                },
+                {
+                  "text": "Marmolady",
+                  "answer_start": 377
+                }
+              ],
+              "id": "1000052"
+            },
+            {
+              "question": "Do jakiej krainy przynależą Dolomity?",
+              "answers": [
+                {
+                  "text": "Tyrol Południowy",
+                  "answer_start": 471
+                }
+              ],
+              "id": "1000053"
+            },
+            {
+              "question": "W jakiej prowincji leży południowa część Dolomitów?",
+              "answers": [
+                {
+                  "text": "Belluno",
+                  "answer_start": 539
+                }
+              ],
+              "id": "1000054"
+            },
+            {
+              "question": "W jakiej prowincji leży zachodnia część masywu?",
+              "answers": [
+                {
+                  "text": "Trentino",
+                  "answer_start": 570
+                }
+              ],
+              "id": "1000055"
+            },
+            {
+              "question": "W którym roku Dolomity wpisano na listę UNESCO?",
+              "answers": [
+                {
+                  "text": "2009",
+                  "answer_start": 638
+                }
+              ],
+              "id": "1000056"
+            },
+            {
+              "question": "Kiedy Dolomity wpisano na listę UNESCO?",
+              "answers": [
+                {
+                  "text": "2009",
+                  "answer_start": 638
+                }
+              ],
+              "id": "1000057"
+            },
+            {
+              "question": "Na jaką listę wpisano Dolomity w 2009 roku?",
+              "answers": [
+                {
+                  "text": "listę światowego dziedzictwa UNESCO",
+                  "answer_start": 668
+                },
+                {
+                  "text": "UNESCO",
+                  "answer_start": 697
+                }
+              ],
+              "id": "1000058"
+            }
+          ]
+        },
+        {
+          "context": "Dolomity stanowią bardzo atrakcyjny rejon i są licznie odwiedzane przez turystów. Duża ilość poszarpanych grani, turni i baszt skalnych, bardzo stromych stoków, urwisk oraz wielkich kilkusetmetrowych pionowych ścian skalnych, głębokich dolin i zjawisk krasowych tworzy bardzo spektakularny krajobraz. Zimą Dolomity są popularnym ośrodkiem narciarskim, a latem oferują olbrzymią ilość szlaków górskich, via ferrat oraz szlaków rowerowych. Rdzenna, zanikająca już ludność Dolomitów to Ladynowie, posiadający własną kulturę i język ladyński, którym posługuje się jeszcze niewielka część mieszkańców (ok. 30 000). Gromadzeniem informacji o kulturze ladyńskiej zajmują się Institut Ladin Micurá de Rü w San Martino (Alta Badia) oraz muzeum etnograficzne w Vigo di Fassa.",
+          "qas": [
+            {
+              "question": "Jak nazywa się rdzenna ludność Dolomitów?",
+              "answers": [
+                {
+                  "text": "Ladynowie",
+                  "answer_start": 483
+                }
+              ],
+              "id": "1000059"
+            },
+            {
+              "question": "Jakim językiem posługują się Ladynowie?",
+              "answers": [
+                {
+                  "text": "język ladyński",
+                  "answer_start": 523
+                },
+                {
+                  "text": "ladyński",
+                  "answer_start": 529
+                }
+              ],
+              "id": "1000060"
+            },
+            {
+              "question": "Ile osób w przybliżeniu używa wciąż języka ladyńskiego?",
+              "answers": [
+                {
+                  "text": "30 000",
+                  "answer_start": 601
+                }
+              ],
+              "id": "1000061"
+            },
+            {
+              "question": "Jaka część mieszkańców używa wciąż języka ladyńskiego?",
+              "answers": [
+                {
+                  "text": "niewielka",
+                  "answer_start": 568
+                }
+              ],
+              "id": "1000062"
+            },
+            {
+              "question": "Gdzie znajduje się Institut Ladin Micurá de Rü?",
+              "answers": [
+                {
+                  "text": "San Martino",
+                  "answer_start": 698
+                }
+              ],
+              "id": "1000063"
+            },
+            {
+              "question": "Gdzie znajduje się muzeum etnograficzne?",
+              "answers": [
+                {
+                  "text": "Vigo di Fassa",
+                  "answer_start": 751
+                }
+              ],
+              "id": "1000064"
+            },
+            {
+              "question": "Jaka placówka gromadzi dane o kulturze ladyńskiej?",
+              "answers": [
+                {
+                  "text": "Institut Ladin Micurá de Rü w San Martino",
+                  "answer_start": 668
+                },
+                {
+                  "text": "muzeum etnograficzne w Vigo di Fassa",
+                  "answer_start": 728
+                }
+              ],
+              "id": "1000065"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Józef_Piłsudski",
+      "paragraphs": [
+        {
+          "context": "Józef Piłsudski herbu Piłsudski urodził się 5 grudnia 1867 w Zułowie na Wileńszczyźnie, w rodzinie o tradycjach patriotycznych. Ojciec, Józef Wincenty (1833–1902), był podczas powstania w 1863 komisarzem Rządu Narodowego na powiat rosieński, matka – Maria z Billewiczów (1842–1884) – pochodziła ze znanego rodu szlacheckiego herbu Mogiła. Rodzice zawarli związek małżeński po wybuchu powstania styczniowego (23 kwietnia 1863). Po stłumieniu powstania, uchodząc przed prześladowaniem ze strony Rosjan, Józef Wincenty Piłsudski uciekł ze Żmudzi na Litwę, gdzie też kilkakrotnie zmieniał miejsce pobytu. Dopiero jesienią lub zimą 1863 nowożeńcy zamieszkali na stałe w posagowym Zułowie.",
+          "qas": [
+            {
+              "question": "Kto urodził się 5 grudnia 1867 roku?",
+              "answers": [
+                {
+                  "text": "Józef Piłsudski",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000066"
+            },
+            {
+              "question": "Kiedy urodził się Józef Piłsudski?",
+              "answers": [
+                {
+                  "text": "5 grudnia 1867",
+                  "answer_start": 44
+                },
+                {
+                  "text": "1867",
+                  "answer_start": 54
+                }
+              ],
+              "id": "1000067"
+            },
+            {
+              "question": "Gdzie urodził się Józef Piłsudski?",
+              "answers": [
+                {
+                  "text": "Zułowie",
+                  "answer_start": 61
+                },
+                {
+                  "text": "Zułowie na Wileńszczyźnie",
+                  "answer_start": 61
+                }
+              ],
+              "id": "1000068"
+            },
+            {
+              "question": "Jakiego herbu był Józef Piłsudski?",
+              "answers": [
+                {
+                  "text": "Piłsudski",
+                  "answer_start": 6
+                }
+              ],
+              "id": "1000069"
+            },
+            {
+              "question": "Jak nazywał się ojciec Józefa Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "Józef Wincenty",
+                  "answer_start": 136
+                }
+              ],
+              "id": "1000070"
+            },
+            {
+              "question": "Kto był ojcem Józefa Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "Józef Wincenty",
+                  "answer_start": 136
+                }
+              ],
+              "id": "1000071"
+            },
+            {
+              "question": "Jak nazywała się matka Józefa Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "Maria z Billewiczów",
+                  "answer_start": 250
+                }
+              ],
+              "id": "1000072"
+            },
+            {
+              "question": "Kto był matką Józefa Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "Maria z Billewiczów",
+                  "answer_start": 250
+                }
+              ],
+              "id": "1000073"
+            },
+            {
+              "question": "Kim był ojciec Józefa Piłsudskiego podczas powstania w 1863?",
+              "answers": [
+                {
+                  "text": "komisarzem Rządu Narodowego na powiat rosieński",
+                  "answer_start": 193
+                },
+                {
+                  "text": "komisarzem Rządu Narodowego",
+                  "answer_start": 193
+                }
+              ],
+              "id": "1000074"
+            },
+            {
+              "question": "Kim był Józef Wincenty podczas powstania?",
+              "answers": [
+                {
+                  "text": "komisarzem Rządu Narodowego na powiat rosieński",
+                  "answer_start": 193
+                },
+                {
+                  "text": "komisarzem Rządu Narodowego",
+                  "answer_start": 193
+                }
+              ],
+              "id": "1000075"
+            },
+            {
+              "question": "W jakim powiecie Józef Wincenty był komisarzem?",
+              "answers": [
+                {
+                  "text": "rosieński",
+                  "answer_start": 231
+                },
+                {
+                  "text": "powiat rosieński",
+                  "answer_start": 224
+                }
+              ],
+              "id": "1000076"
+            },
+            {
+              "question": "Z jakiego rodu pochodziła matka Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "szlacheckiego",
+                  "answer_start": 311
+                },
+                {
+                  "text": "znanego",
+                  "answer_start": 298
+                },
+                {
+                  "text": "znanego rodu szlacheckiego",
+                  "answer_start": 298
+                }
+              ],
+              "id": "1000077"
+            },
+            {
+              "question": "Jakiego herbu była Maria z Billewiczów?",
+              "answers": [
+                {
+                  "text": "Mogiła",
+                  "answer_start": 331
+                }
+              ],
+              "id": "1000078"
+            },
+            {
+              "question": "Kiedy rodzice Piłsudskiego wzięli ślub?",
+              "answers": [
+                {
+                  "text": "23 kwietnia 1863",
+                  "answer_start": 408
+                },
+                {
+                  "text": "1863",
+                  "answer_start": 420
+                }
+              ],
+              "id": "1000079"
+            },
+            {
+              "question": "Kiedy Józef i Maria wzięli ślub?",
+              "answers": [
+                {
+                  "text": "23 kwietnia 1863",
+                  "answer_start": 408
+                },
+                {
+                  "text": "1863",
+                  "answer_start": 420
+                }
+              ],
+              "id": "1000080"
+            },
+            {
+              "question": "W jakim dniu rodzice Piłsudskiego wzięli ślub?",
+              "answers": [
+                {
+                  "text": "23 kwietnia 1863",
+                  "answer_start": 408
+                }
+              ],
+              "id": "1000081"
+            },
+            {
+              "question": "W którym roku Józef i Maria wzięli ślub?",
+              "answers": [
+                {
+                  "text": "1863",
+                  "answer_start": 420
+                }
+              ],
+              "id": "1000082"
+            },
+            {
+              "question": "Dokąd uciekł ojciec Piłsudzkiego po powstaniu?",
+              "answers": [
+                {
+                  "text": "na Litwę",
+                  "answer_start": 543
+                },
+                {
+                  "text": "Litwę",
+                  "answer_start": 546
+                }
+              ],
+              "id": "1000083"
+            },
+            {
+              "question": "Gdzie zamieszkali rodzice Piłsudskiego?",
+              "answers": [
+                {
+                  "text": "w posagowym Zułowie",
+                  "answer_start": 663
+                },
+                {
+                  "text": "posagowym Zułowie",
+                  "answer_start": 665
+                },
+                {
+                  "text": "Zułowie",
+                  "answer_start": 675
+                }
+              ],
+              "id": "1000084"
+            }
+          ]
+        },
+        {
+          "context": "28 lipca 1914 wybuchła wojna austriacko-serbska, dająca początek I wojnie światowej. Już następnego dnia Piłsudski wydał pierwsze rozkazy mobilizacyjne. 31 lipca Marian Januszajtis-Żegota ostatecznie podporządkował jego dowództwu Polskie Drużyny Strzeleckie we Lwowie. Pod auspicjami Austrii ze „Strzelca”, „Sokoła” i Drużyn Bartoszowych powstała I Kompania Kadrowa, uformowana 3 sierpnia na krakowskich Błoniach. Liczyła ona sobie 144 żołnierzy, którymi dowodził Tadeusz Kasprzycki. Piłsudski traktował ten oddział jako kuźnię kadr dla przyszłego wojska polskiego. Kompania wymaszerowała 6 sierpnia w stronę Miechowa, w Michałowicach obalając rosyjskie słupy graniczne.",
+          "qas": [
+            {
+              "question": "Kiedy wybuchła wojna austriacko-serbska?",
+              "answers": [
+                {
+                  "text": "28 lipca 1914",
+                  "answer_start": 0
+                },
+                {
+                  "text": "1914",
+                  "answer_start": 9
+                }
+              ],
+              "id": "1000085"
+            },
+            {
+              "question": "W którym roku rozpoczęła się wojna austriacko-serbska?",
+              "answers": [
+                {
+                  "text": "1914",
+                  "answer_start": 9
+                }
+              ],
+              "id": "1000086"
+            },
+            {
+              "question": "Kto wydał pierwsze rozkazy?",
+              "answers": [
+                {
+                  "text": "Piłsudski",
+                  "answer_start": 105
+                }
+              ],
+              "id": "1000087"
+            },
+            {
+              "question": "Kiedy powstała I Kompania Kadrowa?",
+              "answers": [
+                {
+                  "text": "3 sierpnia",
+                  "answer_start": 378
+                }
+              ],
+              "id": "1000088"
+            },
+            {
+              "question": "Co uformowano 3 sierpnia?",
+              "answers": [
+                {
+                  "text": "I Kompania Kadrowa",
+                  "answer_start": 347
+                }
+              ],
+              "id": "1000089"
+            },
+            {
+              "question": "Gdzie uformowano I Kompanię Kadrową?",
+              "answers": [
+                {
+                  "text": "na krakowskich Błoniach",
+                  "answer_start": 389
+                },
+                {
+                  "text": "krakowskich Błoniach",
+                  "answer_start": 392
+                },
+                {
+                  "text": "Błoniach",
+                  "answer_start": 404
+                }
+              ],
+              "id": "1000090"
+            },
+            {
+              "question": "Ilu żołnierzy było w I Kompanii Kadrowej?",
+              "answers": [
+                {
+                  "text": "144",
+                  "answer_start": 432
+                }
+              ],
+              "id": "1000091"
+            },
+            {
+              "question": "Kto dowodził żołnierzami z I Kompanii Kadrowej?",
+              "answers": [
+                {
+                  "text": "Tadeusz Kasprzycki",
+                  "answer_start": 464
+                }
+              ],
+              "id": "1000092"
+            },
+            {
+              "question": "Kiedy wyruszono w stronę Miechowa?",
+              "answers": [
+                {
+                  "text": "6 sierpnia",
+                  "answer_start": 589
+                }
+              ],
+              "id": "1000093"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adam_Mickiewicz",
+      "paragraphs": [
+        {
+          "context": "Adam Mickiewicz urodził się 24 grudnia 1798. Został ochrzczony 12 lutego 1799 w kościele Przemienienia Pańskiego w Nowogródku. Był synem Mikołaja Mickiewicza herbu Poraj, adwokata sądowego w Nowogródku i komornika mińskiego, oraz Barbary z Majewskich, córki ekonoma z pobliskiego Czombrowa. Jego braćmi byli Aleksander i Franciszek Mickiewiczowie. W latach 1807–1815 uczęszczał do dominikańskiej szkoły powiatowej w Nowogródku. W 1812 miały miejsce dwa ważne wydarzenia w jego życiu: 16 maja umarł jego ojciec, a nieco później przez Nowogródek przeszły wojska Napoleona, maszerujące na Rosję. Miasto Mickiewicza opanowała atmosfera radości i nadziei na koniec niewoli, jednak kilka miesięcy później ta sama Wielka Armia napoleońska wróciła rozbita i pokonana przez Rosjan.",
+          "qas": [
+            {
+              "question": "W jaki dzień urodził się Adam Mickiewicz?",
+              "answers": [
+                {
+                  "text": "24 grudnia 1798",
+                  "answer_start": 28
+                }
+              ],
+              "id": "1000094"
+            },
+            {
+              "question": "Kto urodził się w 1798 roku?",
+              "answers": [
+                {
+                  "text": "Adam Mickiewicz",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000095"
+            },
+            {
+              "question": "W jaki dzień Adam Mickiewicz był ochrzczony?",
+              "answers": [
+                {
+                  "text": "12 lutego 1799",
+                  "answer_start": 63
+                }
+              ],
+              "id": "1000096"
+            },
+            {
+              "question": "W którym roku ochrzczono Adama Mickiewicza?",
+              "answers": [
+                {
+                  "text": "1799",
+                  "answer_start": 73
+                }
+              ],
+              "id": "1000097"
+            },
+            {
+              "question": "Gdzie znajduje się kościół Przemienienia Pańskiego?",
+              "answers": [
+                {
+                  "text": "Nowogródku",
+                  "answer_start": 115
+                }
+              ],
+              "id": "1000098"
+            },
+            {
+              "question": "Jak nazywał się ojciec Adama Mickiewicza?",
+              "answers": [
+                {
+                  "text": "Mikołaja Mickiewicza",
+                  "answer_start": 137
+                }
+              ],
+              "id": "1000099"
+            },
+            {
+              "question": "Jak nazywała się matka Adama Mickiewicza?",
+              "answers": [
+                {
+                  "text": "Barbary z Majewskich",
+                  "answer_start": 230
+                }
+              ],
+              "id": "1000100"
+            },
+            {
+              "question": "Jak nazywali się dwaj bracia Adama?",
+              "answers": [
+                {
+                  "text": "Aleksander i Franciszek",
+                  "answer_start": 308
+                },
+                {
+                  "text": "Aleksander i Franciszek Mickiewiczowie",
+                  "answer_start": 308
+                }
+              ],
+              "id": "1000101"
+            },
+            {
+              "question": "Kiedy zmarł Mikołaj Mickiewicz?",
+              "answers": [
+                {
+                  "text": "1812",
+                  "answer_start": 430
+                },
+                {
+                  "text": "16 maja",
+                  "answer_start": 484
+                }
+              ],
+              "id": "1000102"
+            },
+            {
+              "question": "W którym roku Wielka Armia napoleońska szła na Rosję?",
+              "answers": [
+                {
+                  "text": "1812",
+                  "answer_start": 430
+                }
+              ],
+              "id": "1000103"
+            },
+            {
+              "question": "Gdzie zmierzały wojska napoleońskie?",
+              "answers": [
+                {
+                  "text": "na Rosję",
+                  "answer_start": 583
+                },
+                {
+                  "text": "Rosję",
+                  "answer_start": 586
+                }
+              ],
+              "id": "1000104"
+            },
+            {
+              "question": "Jak nazywało się miasto Mickiewicza?",
+              "answers": [
+                {
+                  "text": "Nowogródek",
+                  "answer_start": 533
+                }
+              ],
+              "id": "1000105"
+            },
+            {
+              "question": "Kto pokonał wojska Napoleona?",
+              "answers": [
+                {
+                  "text": "Rosjan",
+                  "answer_start": 765
+                }
+              ],
+              "id": "1000106"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Afrykarium",
+      "paragraphs": [
+        {
+          "context": "Cały kompleks liczy 19 akwariów, basenów i zbiorników o łącznej powierzchni 4,6 tys. m² i pojemności ponad 15 milionów litrów wody, oczyszczanej przez 50 filtrów. W momencie otwarcia w afrykarium prezentowano kilka tysięcy zwierząt reprezentujących około 100 gatunków. Budowa obiektu kosztowała 220 milionów złotych. Budynek zaprojektowali Mariusz Szlachcic oraz Dorota Szlachcic, a generalnym wykonawcą obiektu było wrocławskie przedsiębiorstwo PB Inter-System S.A.. Wznoszenie kompleksu rozpoczęto na początku 2012 roku, kończąc w październiku 2014 roku.",
+          "qas": [
+            {
+              "question": "Ile akwariów i zbiorników posiada budynek?",
+              "answers": [
+                {
+                  "text": "19",
+                  "answer_start": 20
+                }
+              ],
+              "id": "1000107"
+            },
+            {
+              "question": "Ile filtrów oczyszcza zbiorniki?",
+              "answers": [
+                {
+                  "text": "50",
+                  "answer_start": 151
+                }
+              ],
+              "id": "1000108"
+            },
+            {
+              "question": "Ile gatunków zwierząt było w momencie otwarcia?",
+              "answers": [
+                {
+                  "text": "100",
+                  "answer_start": 255
+                },
+                {
+                  "text": "około 100",
+                  "answer_start": 249
+                }
+              ],
+              "id": "1000109"
+            },
+            {
+              "question": "Ile złotych kosztowała budowa afrykarium?",
+              "answers": [
+                {
+                  "text": "220 milionów",
+                  "answer_start": 295
+                }
+              ],
+              "id": "1000110"
+            },
+            {
+              "question": "Kto zaprojektował obiekt?",
+              "answers": [
+                {
+                  "text": "Mariusz Szlachcic oraz Dorota Szlachcic",
+                  "answer_start": 340
+                }
+              ],
+              "id": "1000111"
+            },
+            {
+              "question": "Jaka firma była głównym wykonawcą budynku?",
+              "answers": [
+                {
+                  "text": "PB Inter-System S.A.",
+                  "answer_start": 446
+                }
+              ],
+              "id": "1000112"
+            },
+            {
+              "question": "W którym roku zaczęto budowę obiektu?",
+              "answers": [
+                {
+                  "text": "2012",
+                  "answer_start": 512
+                }
+              ],
+              "id": "1000113"
+            },
+            {
+              "question": "Kiedy ukończono budowę obiektu?",
+              "answers": [
+                {
+                  "text": "październiku 2014",
+                  "answer_start": 533
+                },
+                {
+                  "text": "2014",
+                  "answer_start": 546
+                }
+              ],
+              "id": "1000114"
+            },
+            {
+              "question": "W którym roku ukończono budowę obiektu?",
+              "answers": [
+                {
+                  "text": "2014",
+                  "answer_start": 546
+                }
+              ],
+              "id": "1000115"
+            },
+            {
+              "question": "W jakim miesiącu zakończono budowę?",
+              "answers": [
+                {
+                  "text": "październiku",
+                  "answer_start": 533
+                }
+              ],
+              "id": "1000116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Złoto",
+      "paragraphs": [
+        {
+          "context": "Złoto (Au, łac. aurum) – pierwiastek chemiczny o liczbie atomowej 79. Złoto jest ciężkim, miękkim i błyszczącym metalem, będącym najbardziej kowalnym i ciągliwym spośród wszystkich znanych metali. Czyste złoto ma jasnożółty kolor i wyraźny połysk, nie utlenia się w wodzie czy powietrzu. Chemicznie złoto należy do metali przejściowych i pierwiastków grupy 11. Z wyjątkiem helowców (tzw. gazów szlachetnych) złoto jest najmniej reaktywnym pierwiastkiem. Złoto długo przed okresem spisanej historii było drogocennym i poszukiwanym metalem szlachetnym używanym w biciu monet, jubilerstwie, sztuce i zdobieniach.",
+          "qas": [
+            {
+              "question": "Jaka jest łacińska nazwa złota?",
+              "answers": [
+                {
+                  "text": "aurum",
+                  "answer_start": 16
+                }
+              ],
+              "id": "1000117"
+            },
+            {
+              "question": "Jaki pierwiastek ma liczbę atomową równą 79?",
+              "answers": [
+                {
+                  "text": "Złoto",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000118"
+            },
+            {
+              "question": "Ile wynosi liczba atomowa złota?",
+              "answers": [
+                {
+                  "text": "79",
+                  "answer_start": 66
+                }
+              ],
+              "id": "1000119"
+            },
+            {
+              "question": "Jaki jest kolor złota?",
+              "answers": [
+                {
+                  "text": "jasnożółty",
+                  "answer_start": 213
+                }
+              ],
+              "id": "1000120"
+            },
+            {
+              "question": "Do pierwiastków której grupy należy złoto?",
+              "answers": [
+                {
+                  "text": "11",
+                  "answer_start": 357
+                }
+              ],
+              "id": "1000121"
+            },
+            {
+              "question": "Jaki pierwiastek należy do grupy 11?",
+              "answers": [
+                {
+                  "text": "Chemicznie złoto",
+                  "answer_start": 288
+                },
+                {
+                  "text": "złoto",
+                  "answer_start": 299
+                }
+              ],
+              "id": "1000122"
+            },
+            {
+              "question": "Jaki pierwiastek należy do metali przejściowych?",
+              "answers": [
+                {
+                  "text": "Chemicznie złoto",
+                  "answer_start": 288
+                },
+                {
+                  "text": "złoto",
+                  "answer_start": 299
+                }
+              ],
+              "id": "1000123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Karkonosze",
+      "paragraphs": [
+        {
+          "context": "Karkonosze (łac. Askiburgion; pol. n. tradyc. do 1946 Góry Olbrzymie, również Karkonosze, cz. Krkonoše, śl.-niem. Riesageberge, niem. Riesengebirge, ang. Giant Mountains) (332,37) – najwyższe pasmo górskie Sudetów i zarazem Czech rozciągające się na przestrzeni ok. 40 km (od Przełęczy Szklarskiej na zachodzie do Przełęczy Lubawskiej na wschodzie). Szerokość pasma waha się od 8 do 20 km. Karkonosze zajmują powierzchnię ok. 650 km², z czego do Polski należy 185 km² czyli 28,46%. Głównym grzbietem oraz Grzbietem Lasockim przebiega granica polsko-czeska. Najwyższym szczytem jest Śnieżka (1603 m n.p.m.) – najwyższy szczyt Czech, Sudetów i Śląska.",
+          "qas": [
+            {
+              "question": "Jak nazywa się najwyższe pasmo górskie w Czechach?",
+              "answers": [
+                {
+                  "text": "Karkonosze",
+                  "answer_start": 0
+                }
+              ],
+              "id": "1000124"
+            },
+            {
+              "question": "Jaka jest powierzchnia Karkonoszy w km²?",
+              "answers": [
+                {
+                  "text": "650",
+                  "answer_start": 426
+                }
+              ],
+              "id": "1000125"
+            },
+            {
+              "question": "Jaki procent Karkonoszy należy do Polski?",
+              "answers": [
+                {
+                  "text": "28,46%",
+                  "answer_start": 474
+                }
+              ],
+              "id": "1000126"
+            },
+            {
+              "question": "Jaka granica przechodzi przez grzbiet główny?",
+              "answers": [
+                {
+                  "text": "polsko-czeska",
+                  "answer_start": 542
+                }
+              ],
+              "id": "1000127"
+            },
+            {
+              "question": "Jaki jest najwyższy szczyt Śląska?",
+              "answers": [
+                {
+                  "text": "Śnieżka",
+                  "answer_start": 582
+                }
+              ],
+              "id": "1000128"
+            },
+            {
+              "question": "Jaki jest najwyższy szczyt Karkonoszy?",
+              "answers": [
+                {
+                  "text": "Śnieżka",
+                  "answer_start": 582
+                }
+              ],
+              "id": "1000129"
+            },
+            {
+              "question": "Ile metrów wysokości ma Śnieżka?",
+              "answers": [
+                {
+                  "text": "1603",
+                  "answer_start": 591
+                }
+              ],
+              "id": "1000130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mars",
+      "paragraphs": [
+        {
+          "context": "Mars ma dwa księżyce, Fobosa i Deimosa, które są małe i mają nieregularny kształt. Mogą one być przechwyconymi planetoidami, podobnymi do planetoidy trojańskiej (5261) Eureka, krążącej na orbicie planety, chociaż obecnie zyskuje na popularności hipoteza, że powstały one z materii wyrzuconej z Marsa. Wokół Marsa krąży pięć sztucznych satelitów, 2001 Mars Odyssey, Mars Express, Mars Reconnaissance Orbiter, Mars Orbiter Mission i MAVEN. Na powierzchni znajduje się aktywny łazik Curiosity misji Mars Science Laboratory oraz kilka innych, nieaktywnych, łazików i lądowników z zarówno udanych, jak i nieudanych misji.",
+          "qas": [
+            {
+              "question": "Ile księżyców posiada Mars?",
+              "answers": [
+                {
+                  "text": "dwa",
+                  "answer_start": 8
+                },
+                {
+                  "text": "dwa księżyce",
+                  "answer_start": 8
+                }
+              ],
+              "id": "1000131"
+            },
+            {
+              "question": "Jak nazywają się oba księżyce Marsa?",
+              "answers": [
+                {
+                  "text": "Fobosa i Deimosa",
+                  "answer_start": 22
+                }
+              ],
+              "id": "1000132"
+            },
+            {
+              "question": "Jak nazywa się drugi, oprócz Deimosa, księżyc Marsa?",
+              "answers": [
+                {
+                  "text": "Fobosa",
+                  "answer_start": 22
+                }
+              ],
+              "id": "1000133"
+            },
+            {
+              "question": "Jak nazywa się drugi, oprócz Fobosa, księżyc Marsa?",
+              "answers": [
+                {
+                  "text": "Deimosa",
+                  "answer_start": 31
+                }
+              ],
+              "id": "1000134"
+            },
+            {
+              "question": "Jak nazywa się planetoida krążąca na orbicie Marsa?",
+              "answers": [
+                {
+                  "text": "Eureka",
+                  "answer_start": 168
+                },
+                {
+                  "text": "(5261) Eureka",
+                  "answer_start": 161
+                }
+              ],
+              "id": "1000135"
+            },
+            {
+              "question": "Ile sztucznych satelitów krąży wokół Marsa?",
+              "answers": [
+                {
+                  "text": "pięć",
+                  "answer_start": 319
+                },
+                {
+                  "text": "pięć sztucznych satelitów",
+                  "answer_start": 319
+                }
+              ],
+              "id": "1000136"
+            },
+            {
+              "question": "Jaki sztuczny satelita, oprócz Mars Orbiter Mission, MAVEN, 2001 Mars Odyssey i Mars Express, krąży wokół Marsa?",
+              "answers": [
+                {
+                  "text": "Mars Reconnaissance Orbiter",
+                  "answer_start": 379
+                }
+              ],
+              "id": "1000137"
+            },
+            {
+              "question": "Z jakiej misji pochodzi łazik Curiosity?",
+              "answers": [
+                {
+                  "text": "Mars Science Laboratory",
+                  "answer_start": 496
+                }
+              ],
+              "id": "1000138"
+            },
+            {
+              "question": "Jaki aktywny łazik znajduje się na Marsie?",
+              "answers": [
+                {
+                  "text": "Curiosity",
+                  "answer_start": 480
+                }
+              ],
+              "id": "1000139"
+            },
+            {
+              "question": "Jak nazywa się jedyny aktywny łazik?",
+              "answers": [
+                {
+                  "text": "Curiosity",
+                  "answer_start": 480
+                }
+              ],
+              "id": "1000140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Słowenia",
+      "paragraphs": [
+        {
+          "context": "Słowenia leży na pograniczu dwóch stref klimatycznych: strefy klimatów podzwrotnikowych i umiarkowanych, która obejmuje większą część kraju. Wybrzeże i duża część Przymorza, aż do doliny Soczy, posiada klimat śródziemnomorski pośredni między morskim a kontynentalnym, z ciepłą słoneczną pogodą przez większą część roku i z łagodnymi zimami. W klimacie umiarkowanym ciepłym występują cztery pory roku. Ukształtowanie terenu sprawia, że w Słowenii w jego obrębie można wyróżnić dwa odrębne obszary klimatyczne. Wschodnia część kraju ma typ klimatu kontynentalnego, z gorącymi latami i dość mroźnymi zimami, gdzie średnie temperatury stycznia wynoszą 0 °C, a czerwca 21 °C. Natomiast na północnym zachodzie dominuje klimat alpejski, z silnymi wpływami znad Atlantyku i obfitymi opadami.",
+          "qas": [
+            {
+              "question": "W jakich dwóch strefach klimatycznych znajduje się Słowenia?",
+              "answers": [
+                {
+                  "text": "strefy klimatów podzwrotnikowych i umiarkowanych",
+                  "answer_start": 55
+                },
+                {
+                  "text": "podzwrotnikowych i umiarkowanych",
+                  "answer_start": 71
+                }
+              ],
+              "id": "1000141"
+            },
+            {
+              "question": "Która strefa klimatyczna roztacza się nad przeważającą częścią kraju?",
+              "answers": [
+                {
+                  "text": "umiarkowanych",
+                  "answer_start": 90
+                }
+              ],
+              "id": "1000142"
+            },
+            {
+              "question": "Jaki klimat panuje na wybrzeżu?",
+              "answers": [
+                {
+                  "text": "klimat śródziemnomorski",
+                  "answer_start": 202
+                },
+                {
+                  "text": "śródziemnomorski",
+                  "answer_start": 209
+                }
+              ],
+              "id": "1000143"
+            },
+            {
+              "question": "Ile obszarów klimatycznych jest w Słowenii?",
+              "answers": [
+                {
+                  "text": "dwa",
+                  "answer_start": 476
+                },
+                {
+                  "text": "dwa odrębne obszary klimatyczne",
+                  "answer_start": 476
+                }
+              ],
+              "id": "1000144"
+            },
+            {
+              "question": "Jaki rodzaj klimatu ma wschodnia Słowenia?",
+              "answers": [
+                {
+                  "text": "typ klimatu kontynentalnego",
+                  "answer_start": 534
+                },
+                {
+                  "text": "klimatu kontynentalnego",
+                  "answer_start": 538
+                },
+                {
+                  "text": "kontynentalnego",
+                  "answer_start": 546
+                }
+              ],
+              "id": "1000145"
+            },
+            {
+              "question": "Jaka jest średnia temperatura w styczniu na wschodzie Słowenii?",
+              "answers": [
+                {
+                  "text": "0 °C",
+                  "answer_start": 648
+                }
+              ],
+              "id": "1000146"
+            },
+            {
+              "question": "W jakiej części Słowenii jest klimat alpejski?",
+              "answers": [
+                {
+                  "text": "na północnym zachodzie",
+                  "answer_start": 681
+                },
+                {
+                  "text": "północnym zachodzie",
+                  "answer_start": 684
+                }
+              ],
+              "id": "1000147"
+            },
+            {
+              "question": "Jaki klimat jest w północno-zachodniej Słowenii?",
+              "answers": [
+                {
+                  "text": "klimat alpejski",
+                  "answer_start": 713
+                },
+                {
+                  "text": "alpejski",
+                  "answer_start": 720
+                }
+              ],
+              "id": "1000148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pandemia_COVID-19",
+      "paragraphs": [
+        {
+          "context": "Pandemia COVID-19 – pandemia zakaźnej choroby COVID-19 wywoływanej przez koronawirusa SARS-CoV-2. Rozpoczęła się jako epidemia 17 listopada 2019 w mieście Wuhan, w prowincji Hubei, w środkowych Chinach, a 11 marca 2020 została uznana przez Światową Organizację Zdrowia (WHO) za pandemię. Do 6 sierpnia 2020 odnotowano ponad 18,79 mln przypadków zachorowań na COVID-19 w 188 państwach i terytoriach, w tym blisko 708 tys. zgonów i ponad 11,40 mln przypadków wyzdrowień. Pandemia spowodowała globalne zakłócenia społeczne i gospodarcze, w tym największą światową recesję od czasów wielkiego kryzysu.",
+          "qas": [
+            {
+              "question": "Za jaką dolegliwość odpowiedzialny jest SARS-CoV-2?",
+              "answers": [
+                {
+                  "text": "zakaźnej choroby COVID-19",
+                  "answer_start": 29
+                },
+                {
+                  "text": "choroby COVID-19",
+                  "answer_start": 38
+                },
+                {
+                  "text": "COVID-19",
+                  "answer_start": 9
+                }
+              ],
+              "id": "1000149"
+            },
+            {
+              "question": "Jaką chorobą jest COVID-19?",
+              "answers": [
+                {
+                  "text": "zakaźnej",
+                  "answer_start": 29
+                }
+              ],
+              "id": "1000150"
+            },
+            {
+              "question": "Co jest przyczyną choroby COVID-19?",
+              "answers": [
+                {
+                  "text": "koronawirusa SARS-CoV-2",
+                  "answer_start": 73
+                },
+                {
+                  "text": "SARS-CoV-2",
+                  "answer_start": 86
+                }
+              ],
+              "id": "1000151"
+            },
+            {
+              "question": "Kiedy miała swój początek pandemia?",
+              "answers": [
+                {
+                  "text": "17 listopada 2019",
+                  "answer_start": 127
+                }
+              ],
+              "id": "1000152"
+            },
+            {
+              "question": "Gdzie miała swój początek pandemia?",
+              "answers": [
+                {
+                  "text": "w mieście Wuhan",
+                  "answer_start": 145
+                },
+                {
+                  "text": "mieście Wuhan",
+                  "answer_start": 147
+                },
+                {
+                  "text": "Wuhan",
+                  "answer_start": 155
+                },
+                {
+                  "text": "w prowincji Hubei",
+                  "answer_start": 162
+                },
+                {
+                  "text": "prowincji Hubei",
+                  "answer_start": 164
+                },
+                {
+                  "text": "Hubei",
+                  "answer_start": 174
+                },
+                {
+                  "text": "w środkowych Chinach",
+                  "answer_start": 181
+                },
+                {
+                  "text": "środkowych Chinach",
+                  "answer_start": 183
+                },
+                {
+                  "text": "Chinach",
+                  "answer_start": 194
+                }
+              ],
+              "id": "1000153"
+            },
+            {
+              "question": "Gdzie znajduje się Wuhan?",
+              "answers": [
+                {
+                  "text": "w prowincji Hubei",
+                  "answer_start": 162
+                },
+                {
+                  "text": "prowincji Hubei",
+                  "answer_start": 164
+                },
+                {
+                  "text": "Hubei",
+                  "answer_start": 174
+                },
+                {
+                  "text": "w środkowych Chinach",
+                  "answer_start": 181
+                },
+                {
+                  "text": "środkowych Chinach",
+                  "answer_start": 183
+                },
+                {
+                  "text": "Chinach",
+                  "answer_start": 194
+                },
+                {
+                  "text": "w prowincji Hubei, w środkowych Chinach",
+                  "answer_start": 162
+                }
+              ],
+              "id": "1000154"
+            },
+            {
+              "question": "W której części Chin znajduje się Wuhan?",
+              "answers": [
+                {
+                  "text": "w środkowych",
+                  "answer_start": 181
+                },
+                {
+                  "text": "środkowych",
+                  "answer_start": 183
+                }
+              ],
+              "id": "1000155"
+            },
+            {
+              "question": "Co oznacza skrót WHO?",
+              "answers": [
+                {
+                  "text": "Światową Organizację Zdrowia",
+                  "answer_start": 240
+                }
+              ],
+              "id": "1000156"
+            },
+            {
+              "question": "Jaki skrót oznacza Światową Organizację Zdrowia?",
+              "answers": [
+                {
+                  "text": "WHO",
+                  "answer_start": 270
+                }
+              ],
+              "id": "1000157"
+            },
+            {
+              "question": "Jaka organizacja ogłosiła pandemię?",
+              "answers": [
+                {
+                  "text": "Światową Organizację Zdrowia",
+                  "answer_start": 240
+                },
+                {
+                  "text": "WHO",
+                  "answer_start": 270
+                }
+              ],
+              "id": "1000158"
+            }
+          ]
+        },
+        {
+          "context": "W celu przeciwdziałania rozprzestrzenianiu się choroby zaleca się mycie rąk. CDC zaleca częste mycie rąk mydłem i wodą przez co najmniej dwadzieścia sekund, szczególnie po skorzystaniu z toalety lub gdy ręce są wyraźnie zabrudzone; przed jedzeniem; oraz po wydmuchiwaniu nosa, kasłaniu lub kichaniu. To dlatego, że poza ludzkim ciałem, wirus jest zabijany przez zwykłe mydło, które powoduje rozerwanie jego powłoki ochronnej. CDC zaleca ponadto stosowanie środka do dezynfekcji rąk na bazie alkoholu, zawierającego co najmniej 60 procent alkoholu objętościowo, gdy woda i mydło nie są łatwo dostępne. WHO informuje, aby unikać dotykania oczu, nosa i ust za pomocą nieumytych rąk.",
+          "qas": [
+            {
+              "question": "Jaka czynność jest polecana dla przeciwdziałania chorobie?",
+              "answers": [
+                {
+                  "text": "mycie rąk",
+                  "answer_start": 66
+                }
+              ],
+              "id": "1000159"
+            },
+            {
+              "question": "Jaki jest zalecany, minimalny czas mycia rąk?",
+              "answers": [
+                {
+                  "text": "dwadzieścia sekund",
+                  "answer_start": 137
+                }
+              ],
+              "id": "1000160"
+            },
+            {
+              "question": "Czym należy myć ręce według zaleceń CDC?",
+              "answers": [
+                {
+                  "text": "mydłem i wodą",
+                  "answer_start": 105
+                }
+              ],
+              "id": "1000161"
+            },
+            {
+              "question": "Co niszczy powłokę ochronną wirusa?",
+              "answers": [
+                {
+                  "text": "zwykłe mydło",
+                  "answer_start": 362
+                },
+                {
+                  "text": "mydło",
+                  "answer_start": 369
+                }
+              ],
+              "id": "1000162"
+            },
+            {
+              "question": "Jaką minimalną część powinien stanowić alkohol w środku do dezynfekcji?",
+              "answers": [
+                {
+                  "text": "60 procent",
+                  "answer_start": 527
+                }
+              ],
+              "id": "1000163"
+            },
+            {
+              "question": "Czego należy nie dotykać brudnymi rękami?",
+              "answers": [
+                {
+                  "text": "oczu, nosa i ust",
+                  "answer_start": 637
+                },
+                {
+                  "text": "oczu",
+                  "answer_start": 637
+                },
+                {
+                  "text": "nosa",
+                  "answer_start": 643
+                },
+                {
+                  "text": "ust",
+                  "answer_start": 650
+                }
+              ],
+              "id": "1000164"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
