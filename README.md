@@ -30,7 +30,7 @@ Please use `poetry` to install dependencies.
 
 Requirements:
 
-- `python` 3.6 or higher
+- `python` 3.7 or higher
 - `poetry` 0.12 or higher (to install: `pip install poetry`)
 
 
@@ -47,4 +47,4 @@ download a BERT model, train it and predict results.
 
 Requirements:
 
-- `python` 3.6 or higher
+- `python` 3.7 or higher
