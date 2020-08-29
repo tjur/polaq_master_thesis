@@ -7,5 +7,5 @@ dist/
 *.log
 *.props
 *.txt
+!score.txt
 *.out
-

@@ -2,7 +2,7 @@
 
 This project includes code that was created for my master thesis.
 Its purpose was to create a new polish question answering
-dataset based on english SQuAD 1.1.
+dataset based on english *SQuAD* 1.1 dataset.
 It consists of 2 smaller, independent projects:
 
 - polaq_create
