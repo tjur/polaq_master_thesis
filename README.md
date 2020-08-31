@@ -10,13 +10,13 @@ It consists of 2 smaller, independent projects:
 
 The final results of the thesis are 5 ***PolAQ*** datasets:
 
-- *polaq_dataset_depth_0*
-- *polaq_dataset_depth_0_combined*
-- *polaq_dataset_depth_1*
-- *polaq_dataset_depth_1_combined*
-- *polaq_dataset_manual*
+- ***polaq_dataset_depth_0*** - 9890 question-answer pairs
+- ***polaq_dataset_depth_0_combined*** - 10 495 question-answer pairs
+- ***polaq_dataset_depth_1*** - 12 135 question-answer pairs
+- ***polaq_dataset_depth_1_combined*** - 14 416 question-answer pairs
+- ***polaq_dataset_manual*** - 5535 question-answer pairs
 
-There is also a small, manually labelled test dataset *polaq_dataset_test*.
+There is also a small, manually labelled test dataset ***polaq_dataset_test*** (164 questions).
 
 All datasets were made available to use and can be obtained from [here](polaq_test/data).
 
