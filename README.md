@@ -2,7 +2,7 @@
 
 This project includes code that was created for my master thesis.
 Its purpose was to create a new polish question answering
-dataset based on english *SQuAD* 1.1 dataset.
+dataset based on english [*SQuAD* 1.1](https://rajpurkar.github.io/SQuAD-explorer/) dataset.
 It consists of 2 smaller, independent projects:
 
 - polaq_create
@@ -37,14 +37,28 @@ Requirements:
 
 ## polaq_test
 
-I tested here all 5 datasets. They were used as a traing data (each of them independently)
+I tested here all 5 datasets. They were used as a training data (each of them independently)
 for [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md).
 Then each model tried to answer questions from a test set.
-The results can be seen in [output](polaq_test/output) folder.
+The results can be found in [output](polaq_test/output) folder.
 
 Use provided bash scripts to initialize project,
-download a BERT model, train it and predict results.
+download BERT model, train it and predict results.
 
 Requirements:
 
 - `python` 3.7 or higher
+
+### Final score
+
+The table below presents final score for all 5 datasets on the test set.
+Both metrics (*EM* and *F1*) were explained in a [SQuAD paper](https://arxiv.org/abs/1606.05250).
+
+
+|                             | EM (Exact Match) |   F1   |
+| :-------------------------- |:----------------:| :-----:|
+| *polaq\_manual*             |      71.9%       | 75.65% |
+| *polaq\_depth\_0\_combined* |      71.34%      | 79.67% |
+| *polaq\_depth\_0*           |      72.56%      | 80.39% |
+| *polaq\_depth\_1\_combined* |      70.12%      | 77.12% |
+| *polaq\_depth\_1*           |      69.51%      | 75.05% |
